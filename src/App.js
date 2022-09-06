@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="/" element={<Navbar />}>
+      <Route path="" element={<Navbar />}>
         <Route index element={<KnowMe />} />
         <Route path="advertisements" element={<Advertisement />} />
         <Route path="music-videos" element={<MusicVideo />} />
