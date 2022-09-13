@@ -12,7 +12,7 @@ export default function Navbar() {
         <LinksName>
           <ul>
             <li>
-              <NavLink to="/">Know Me</NavLink>
+              <NavLink to="/manish-solanki-films">Know Me</NavLink>
             </li>
             <li>
               <NavLink to="advertisements">Advertisements</NavLink>
