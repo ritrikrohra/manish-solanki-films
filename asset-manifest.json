@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/manish-solanki-films/static/css/main.7e0b70ce.css",
-    "main.js": "/manish-solanki-films/static/js/main.adf00a24.js",
+    "main.js": "/manish-solanki-films/static/js/main.fa4410fa.js",
     "index.html": "/manish-solanki-films/index.html",
     "main.7e0b70ce.css.map": "/manish-solanki-films/static/css/main.7e0b70ce.css.map",
-    "main.adf00a24.js.map": "/manish-solanki-films/static/js/main.adf00a24.js.map"
+    "main.fa4410fa.js.map": "/manish-solanki-films/static/js/main.fa4410fa.js.map"
   },
   "entrypoints": [
     "static/css/main.7e0b70ce.css",
-    "static/js/main.adf00a24.js"
+    "static/js/main.fa4410fa.js"
   ]
 }
