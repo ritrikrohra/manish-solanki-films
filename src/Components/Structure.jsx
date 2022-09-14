@@ -7,7 +7,7 @@ export default function Structure(props) {
   return (
     <>
       <Grid container key={key}>
-        <Grid item lg={12} md={12} xs={12} sx={{ textAlign: "center" }}>
+        <Grid item lg={12} md={12} xs={12} sx={{ textAlign: "center", margin:"20px 0" }}>
         <Divider><h2>{data.role}</h2></Divider>
         </Grid>
         {data.works?.map((work, id) => (
