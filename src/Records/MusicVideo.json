@@ -2,7 +2,7 @@
   {
     "role": "Director",
     "key": 1,
-    "work": [
+    "works": [
       {
         "id": 1,
         "link": "https://youtu.be/ZA52iC1Mxvk",
@@ -28,7 +28,7 @@
   {
     "role": "Co - Director",
     "key": 2,
-    "work": [
+    "works": [
       {
         "id": 1,
         "link": "https://youtu.be/nUDvpMOuJPw",
@@ -49,7 +49,7 @@
   {
     "role": "Associate Director",
     "key": 3,
-    "work": [
+    "works": [
       {
         "id": 1,
         "link": "https://youtu.be/wuu6IckFNGI",
@@ -70,7 +70,7 @@
   {
     "role": "Assistant Director",
     "key": 4,
-    "work": [
+    "works": [
       {
         "id": 1,
         "link": "https://youtu.be/S1T1jGLSgZ4",

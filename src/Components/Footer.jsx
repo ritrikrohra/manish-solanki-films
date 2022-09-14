@@ -10,32 +10,32 @@ export default function Footer() {
           <SocialHandles>
             <ul>
               <li>
-                <a>
+                <a href="#" type="_blank">
                   <Ai.AiOutlinePhone />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#" type="_blank">
                   <Ai.AiOutlineFacebook />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#" type="_blank">
                   <Ai.AiOutlineInstagram />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#" type="_blank">
                   <Ai.AiOutlineWhatsApp />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#" type="_blank">
                   <Ai.AiOutlineTwitter />
                 </a>
               </li>
               <li>
-                <a>
+                <a href="#" type="_blank">
                   <Ai.AiOutlineYoutube />
                 </a>
               </li>

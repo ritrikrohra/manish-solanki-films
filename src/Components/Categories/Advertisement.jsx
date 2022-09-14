@@ -1,12 +1,13 @@
-import React from 'react';
-import ReactPlayer from 'react-player';
-import { Grid } from '@mui/material';
-
+import React from "react";
+import record from "../../Records/Advertisement.json";
+import Structure from "../Structure";
 
 export default function Advertisement() {
   return (
     <>
-    after adding json files
+      {record?.map((data, key) => (
+        <Structure data={data} key={key} />
+      ))}
     </>
-  )
+  );
 }
