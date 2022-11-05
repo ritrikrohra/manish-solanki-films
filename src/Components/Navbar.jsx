@@ -12,16 +12,16 @@ export default function Navbar() {
         <LinksName>
           <ul>
             <li>
-              <NavLink to="/manish-solanki-films">Know Me</NavLink>
+              <NavLink to="/manish-solanki-films">Home</NavLink>
             </li>
             <li>
-              <NavLink to="advertisements">Advertisements</NavLink>
+              <NavLink to="advertisement">Advertisements</NavLink>
             </li>
             <li>
-              <NavLink to="music-videos">Music Videos</NavLink>
+              <NavLink to="music-video">Music Videos</NavLink>
             </li>
             <li>
-              <NavLink to="short-films">Short Films</NavLink>
+              <NavLink to="film">Short Films</NavLink>
             </li>
           </ul>
         </LinksName>

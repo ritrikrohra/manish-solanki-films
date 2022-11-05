@@ -2,8 +2,8 @@ import React from "react";
 import record from "../../Records/AllRecord.json";
 import Structure from "../Structure";
 
-export default function Advertisement() {
-  const filtered = record?.filter((data) => data.type === "Advertisement");
+export default function Home() {
+  const filtered = record?.filter((data)=> data.type === "Main");
 
   return (
     <>
