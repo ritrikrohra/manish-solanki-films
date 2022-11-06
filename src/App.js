@@ -13,8 +13,8 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="manish-solanki-films" element={<Navbar />}>
-        <Route index element={<Home />} />
+      <Route path="/" element={<Navbar />}>
+        <Route exact index element={<Home />} />
         <Route exact path=":linkSlug" element={<LinkPage />} />
         <Route exact path="advertisement" element={<Advertisement />} />
         <Route exact path="advertisement/:linkSlug" element={<LinkPage />} />

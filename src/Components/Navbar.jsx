@@ -3,25 +3,52 @@ import { NavLink, Outlet } from "react-router-dom";
 import styled from "styled-components";
 
 export default function Navbar() {
+  let activeStyle = {
+    textDecoration: "underline",
+  };
+
   return (
     <>
       <Nav>
         <TagName>
-          <p>Manish <br/><span>&nbsp;&nbsp;&nbsp;Solanki</span></p>
+          <p>
+            Manish <br />
+            <span>&nbsp;&nbsp;&nbsp;Solanki</span>
+          </p>
         </TagName>
         <LinksName>
           <ul>
             <li>
-              <NavLink to="/manish-solanki-films">Home</NavLink>
+              <NavLink
+                to="" 
+                style={({ isActive }) => (isActive ? activeStyle : undefined)}
+              >
+                Home
+              </NavLink>
             </li>
             <li>
-              <NavLink to="advertisement">Advertisements</NavLink>
+              <NavLink
+                to="advertisement" 
+                style={({ isActive }) => (isActive ? activeStyle : undefined)}
+              >
+                Advertisements
+              </NavLink>
             </li>
             <li>
-              <NavLink to="music-video">Music Videos</NavLink>
+              <NavLink
+                to="music-video" 
+                style={({ isActive }) => (isActive ? activeStyle : undefined)}
+              >
+                Music Videos
+              </NavLink>
             </li>
             <li>
-              <NavLink to="film">Short Films</NavLink>
+              <NavLink
+                to="film" 
+                style={({ isActive }) => (isActive ? activeStyle : undefined)}
+              >
+                Short Films
+              </NavLink>
             </li>
           </ul>
         </LinksName>
@@ -38,17 +65,17 @@ const Nav = styled.nav`
   background-color: black;
   display: flex;
   justify-content: space-around;
-  align-items : center;
+  align-items: center;
   padding: 3vh 0;
 `;
 const TagName = styled.div`
-p{
-    font-size : 30px;
-    font-family: 'Montez', cursive;
-}
-p span{
-    font-family: 'Montez', cursive;
-}
+  p {
+    font-size: 30px;
+    font-family: "Montez", cursive;
+  }
+  p span {
+    font-family: "Montez", cursive;
+  }
 `;
 const LinksName = styled.div`
   ul {
