@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Router, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Home from "./Components/Categories/Home";
 import Advertisement from "./Components/Categories/Advertisement";
 import MusicVideo from "./Components/Categories/MusicVideo";
@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path="/" element={<Navbar />}>
+      <Route path="" element={<Navbar />}>
         <Route exact index element={<Home />} />
         <Route exact path=":linkSlug" element={<LinkPage />} />
         <Route exact path="advertisement" element={<Advertisement />} />
