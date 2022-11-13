@@ -6,65 +6,101 @@
       {
         "id": 1,
         "link": "https://youtu.be/S1T1jGLSgZ4",
-        "title": "Darshan Rawal",
+        "role": "Assistant Director",
+        "title": "Tere Naam (Music Video)",
         "slug": "tere-naam-music-video-main",
-        "thumbnail": "Thumbnail/693.png"
+        "thumbnail": "Thumbnail/693.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Tulsi Kumar & Darshan Rawal",
+        "cast": null
       },
       {
         "id": 2,
         "link": "https://youtu.be/LMGFhElKlIY",
-        "title": "Himansh Kohli",
+        "role": "Assistant Director",
+        "title": "Meri Tarah (Music Video)",
         "slug": "meri-tarah-music-video-main",
-        "thumbnail": "Thumbnail/697.png"
+        "thumbnail": "Thumbnail/697.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Jubin Nautiyal, Payal Dev",
+        "cast": "Himansh Kohli, Heli Daruwala & Gautam Gulati"
       },
       {
         "id": 3,
         "link": "https://youtu.be/eY3m3ji1q84",
-        "title": "Ali Gony",
+        "role": "Assistant Director",
+        "title": "Tu Bhi Sataya Jayega (Music Video)",
         "slug": "tu-bhi-sataya-jayega-main",
-        "thumbnail": "Thumbnail/699.png"
+        "thumbnail": "Thumbnail/699.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Vishal Mishra",
+        "cast": "Aly Goni & Jasmin Bhasin"
       },
       {
         "id": 4,
         "link": "https://youtu.be/96oAebJ8dig",
-        "title": "Kieron Pollard",
+        "role": "Director",
+        "title": "Vision 11 - Yahi Toh Chance Hai",
         "slug": "vision11-yahi-toh-chance-hai-main",
-        "thumbnail": "Thumbnail/598.png"
+        "thumbnail": "Thumbnail/598.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Kieron Pollard"
       },
       {
         "id": 5,
-        "link": "https://youtu.be/fkVHuOcuz-g",
-        "title": "ICT Player",
-        "slug": "vision11-next-match-ka-main",
-        "thumbnail": "Thumbnail/596.png"
+        "link": "https://youtu.be/WYczB8J_Yhg",
+        "role": "Director",
+        "title": "Vision 11 - Genie Ka Nhi Chalega",
+        "slug": "vision11-genie-ka-nhi-main",
+        "thumbnail": "Thumbnail/596.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Harshal Patel"
       },
       {
         "id": 6,
-        "link": "https://youtu.be/1q-lrk8pGf8",
-        "title": "Axar Patel",
-        "slug": "vision11-take-a-break-main",
-        "thumbnail": "Thumbnail/600.png"
+        "link": "https://youtu.be/HOUgl8xFIJ4",
+        "role": "Director",
+        "title": "Vision 11 - Dimag Lagao",
+        "slug": "vision11-dimag-lagao-main",
+        "thumbnail": "Thumbnail/600.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Axar Patel"
       },
       {
         "id": 7,
         "link": "https://youtu.be/nUDvpMOuJPw",
-        "title": "Mame Khan 1",
+        "role": "Co-Director",
+        "title": "Laal Peeli Ankhiyan (Music Video)",
         "slug": "laal-peeli-ankhiyan-main",
-        "thumbnail": "Thumbnail/664.png"
+        "thumbnail": "Thumbnail/664.png",
+        "text": "Directed by Sitaram Kumawat",
+        "singer": "Mame Khan",
+        "cast": "Mame Khan"
       },
       {
         "id": 8,
         "link": "https://youtu.be/6iYb4HtRmwg",
-        "title": "Mame Khan 2",
+        "role": "Co-Director",
+        "title": "Jogiya (Music Video)",
         "slug": "jogiya-mame-khan-main",
-        "thumbnail": "Thumbnail/676.png"
+        "thumbnail": "Thumbnail/676.png",
+        "text": null,
+        "singer": "Mame Khan",
+        "cast": "Mame Khan"
       },
       {
         "id": 9,
         "link": "https://youtu.be/IZbBiAiO7JQ",
-        "title": "Last Music Video",
+        "role": "Director",
+        "title": "Tere Mere Beech (Music Video)",
         "slug": "tere-mere-beech-main",
-        "thumbnail": "Thumbnail/641.png"
+        "thumbnail": "Thumbnail/641.png",
+        "text": null,
+        "singer": "Aditya Singh",
+        "cast": "Keerti Singh & Ankit Sharma"
       }
     ]
   },
@@ -75,107 +111,167 @@
       {
         "id": 1,
         "link": "https://youtu.be/_jZFfnrfvA8",
-        "title": "Kiren Pollard",
+        "role": "Director",
+        "title": "Vision 11 - Pollard Is Waiting",
         "slug": "vision11-pollard-is-waiting",
-        "thumbnail": "Thumbnail/593.png"
+        "thumbnail": "Thumbnail/593.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Kieron Pollard"
       },
       {
         "id": 2,
         "link": "https://youtu.be/96oAebJ8dig",
-        "title": "Kiren Pollard",
+        "role": "Director",
+        "title": "Vision 11 - Yahi Toh Chance Hai",
         "slug": "vision11-yahi-toh-chance-hai",
-        "thumbnail": "Thumbnail/598.png"
+        "thumbnail": "Thumbnail/598.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Kieron Pollard"
       },
       {
         "id": 3,
         "link": "https://youtu.be/1q-lrk8pGf8",
-        "title": "Harshal Patel",
+        "role": "Director",
+        "title": "Vision 11 - Take A Break",
         "slug": "vision11-take-a-break",
-        "thumbnail": "Thumbnail/595.png"
+        "thumbnail": "Thumbnail/595.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Harshal Patel"
       },
       {
         "id": 4,
         "link": "https://youtu.be/WYczB8J_Yhg",
-        "title": "Harshal Patel",
+        "role": "Director",
+        "title": "Vision 11 - Genie Ka Nhi Chalega",
         "slug": "vision11-genie-ka-nhi",
-        "thumbnail": "Thumbnail/596.png"
+        "thumbnail": "Thumbnail/596.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Harshal Patel"
       },
       {
         "id": 5,
         "link": "https://youtu.be/dlo7qFM2wJI",
-        "title": "Harshal Patel",
+        "role": "Director",
+        "title": "Vision 11 - Fame Wala Game",
         "slug": "vision11-fame-wala-game",
-        "thumbnail": "Thumbnail/617.png"
+        "thumbnail": "Thumbnail/617.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Axar Patel"
       },
       {
         "id": 6,
         "link": "https://youtu.be/HOUgl8xFIJ4",
-        "title": "Akshar Patel",
+        "role": "Director",
+        "title": "Vision 11 - Dimag Lagao",
         "slug": "vision11-dimag-lagao",
-        "thumbnail": "Thumbnail/600.png"
+        "thumbnail": "Thumbnail/600.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Axar Patel"
       },
       {
         "id": 7,
         "link": "https://youtu.be/fkVHuOcuz-g",
-        "title": "Akshar Patel",
+        "role": "Director",
+        "title": "Vision 11 - Next Match Ka",
         "slug": "vision11-next-match-ka",
-        "thumbnail": "Thumbnail/603.png"
+        "thumbnail": "Thumbnail/603.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Axar Patel"
       },
       {
         "id": 8,
         "link": "https://youtu.be/edMKY4KkzlE",
-        "title": "Manish Pandey",
+        "role": "Director",
+        "title": "Vision 11 - Win In Lakhs",
         "slug": "vision11-win-in-lakhs",
-        "thumbnail": "Thumbnail/628.png"
+        "thumbnail": "Thumbnail/628.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Manish Pandey"
       },
       {
         "id": 9,
         "link": "https://youtu.be/9bs-qe258r4",
-        "title": "Manish Pandey",
+        "role": "Director",
+        "title": "Vision 11 - Match Offline Ho Ya Online",
         "slug": "vision11-match-offline-ho",
-        "thumbnail": "Thumbnail/621.png"
+        "thumbnail": "Thumbnail/621.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Manish Pandey"
       },
       {
         "id": 10,
         "link": "https://youtu.be/izxOd1I1C6c",
-        "title": "Manish Pandey",
+        "role": "Director",
+        "title": "Vision 11 - Beat Your Competitors",
         "slug": "vision11-beat-your-competitors",
-        "thumbnail": "Thumbnail/622.png"
+        "thumbnail": "Thumbnail/622.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Manish Pandey"
       },
       {
         "id": 11,
         "link": "https://youtu.be/w-L5KP10hsI",
-        "title": "Manish Pandey",
+        "role": "Director",
+        "title": "Vision 11 - Apni Favorite Players",
         "slug": "vision11-apni-favorite-players",
-        "thumbnail": "Thumbnail/611.png"
+        "thumbnail": "Thumbnail/611.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Manish Pandey"
       },
       {
         "id": 12,
         "link": "https://youtu.be/A4CL1M7i9Y0",
-        "title": "Rahul Choudhary",
+        "role": "Director",
+        "title": "Vision 11 - Kaam Kya Karte Hai",
         "slug": "vision11-kaam-kya-karte",
-        "thumbnail": "Thumbnail/614.png"
+        "thumbnail": "Thumbnail/614.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Rahul Choudhary"
       },
       {
         "id": 13,
         "link": "https://youtu.be/ctY38wGdIDw",
-        "title": "Rahul Choudhary",
+        "role": "Director",
+        "title": "Vision 11 - Kya Panditji",
         "slug": "vision11-kya-panditji-ko",
-        "thumbnail": "Thumbnail/619.png"
+        "thumbnail": "Thumbnail/619.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Rahul Choudhary"
       },
       {
         "id": 14,
         "link": "https://youtu.be/EP82GG1ceD0",
-        "title": "Rahul Choudhary",
+        "role": "Director",
+        "title": "Vision 11 - Paise Lagao Paise",
         "slug": "vision11-paise-lagao-paise",
-        "thumbnail": "Thumbnail/597.png"
+        "thumbnail": "Thumbnail/597.png",
+        "text": "Ad shoot for Vision-11",
+        "singer": null,
+        "cast": "Rahul Choudhary"
       },
       {
         "id": 15,
         "link": "https://youtu.be/PTdkJfKCb7w",
-        "title": "Royal Enfield",
+        "role": "Director",
+        "title": "Royal Enfield - The World Full Of Surprises",
         "slug": "royal-enfield-the-world",
-        "thumbnail": "Thumbnail/634.png"
+        "thumbnail": "Thumbnail/634.png",
+        "text": "Ad shoot for Royal Enfield",
+        "singer": null,
+        "cast": "Axar Patel"
       }
     ]
   },
@@ -186,93 +282,145 @@
       {
         "id": 1,
         "link": "https://youtu.be/ZA52iC1Mxvk",
-        "title": "Tu mile Dil khile on saregama channel",
+        "title": "Tu Mile Dil Khile (Music Video)",
+        "role": "Director",
         "slug": "tu-mile-dil-khile",
-        "thumbnail": "Thumbnail/645.png"
+        "thumbnail": "Thumbnail/645.png",
+        "text": null,
+        "singer": "Aditya Raj",
+        "cast": "Aditya Raj"
       },
       {
         "id": 2,
         "link": "https://youtu.be/IZbBiAiO7JQ",
-        "title": "Tere Mere Beech song",
+        "role": "Director",
+        "title": "Tere Mere Beech (Music Video)",
         "slug": "tere-mere-beech",
-        "thumbnail": "Thumbnail/641.png"
+        "thumbnail": "Thumbnail/641.png",
+        "text": null,
+        "singer": "Aditya Singh",
+        "cast": "Keerti Singh & Ankit Sharma"
       },
       {
         "id": 3,
         "link": "https://youtu.be/nPXT73objSY",
-        "title": "Do Kadam Music Video",
+        "role": "Director",
+        "title": "Do Kadam (Music Video)",
         "slug": "do-kadam",
-        "thumbnail": "Thumbnail/651.png"
+        "thumbnail": "Thumbnail/651.png",
+        "text": null,
+        "singer": "Shivang Shukla",
+        "cast": "Shivang Shukla, Soumaya Parashar & Rajesh Thada"
       },
       {
         "id": 4,
         "link": "https://youtu.be/rbraqW4ZBIY",
-        "title": "Apradhi Song",
+        "role": "Director",
+        "title": "Apradhi (Music Video)",
         "slug": "apradhi-ruhaan-x-daksh",
-        "thumbnail": "Thumbnail/637.png"
+        "thumbnail": "Thumbnail/637.png",
+        "text": null,
+        "singer": "Ruhaan X Daksh",
+        "cast": "Ruhaan & Daksh"
       },
       {
         "id": 5,
         "link": "https://youtu.be/nUDvpMOuJPw",
-        "title": "Lal Peeli Ankhiyan Music Video - Mame khan",
+        "role": "Co-Director",
+        "title": "Laal Peeli Ankhiyan (Music Video)",
         "slug": "laal-peeli-ankhiyan",
-        "thumbnail": "Thumbnail/664.png"
+        "thumbnail": "Thumbnail/664.png",
+        "text": "Directed by Sitaram Kumawat",
+        "singer": "Mame Khan",
+        "cast": "Mame Khan"
       },
       {
         "id": 6,
         "link": "https://youtu.be/6iYb4HtRmwg",
-        "title": "Jogiya - Mame Khan",
+        "role": "Co-Director",
+        "title": "Jogiya (Music Video)",
         "slug": "jogiya-mame-khan",
-        "thumbnail": "Thumbnail/676.png"
+        "thumbnail": "Thumbnail/676.png",
+        "text": null,
+        "singer": "Mame Khan",
+        "cast": "Mame Khan"
       },
       {
         "id": 7,
         "link": "https://youtu.be/MqL-EZkVkuA",
+        "role": "Co-Director",
         "title": "Dabi Rahi - Akshay Agarwal",
         "slug": "dabi-rahi-akshay-agarwal",
-        "thumbnail": "Thumbnail/684.png"
+        "thumbnail": "Thumbnail/684.png",
+        "text": "Directed by Arpit Gangwal",
+        "singer": "Akshay Agarwal",
+        "cast": "Sonesh Arya & Ankita Sharma"
       },
       {
         "id": 8,
         "link": "https://youtu.be/wuu6IckFNGI",
-        "title": "Saajan Re",
+        "role": "Associate Director",
+        "title": "Saajan Re (Music Video)",
         "slug": "saajan-re-hariprem-films",
-        "thumbnail": "Thumbnail/660.png"
+        "thumbnail": "Thumbnail/660.png",
+        "text": "Directed by Arpit Gangwal",
+        "singer": "Akshay Agarwal",
+        "cast": "Ishita Meena & Gaurav Wadhwa"
       },
       {
         "id": 9,
         "link": "https://youtu.be/FTeI75h-NHQ",
+        "role": "Associate Director",
         "title": "Aaja Ve Maahi",
         "slug": "aaja-ve-maahi",
-        "thumbnail": "Thumbnail/678.png"
+        "thumbnail": "Thumbnail/678.png",
+        "text": "Directed by Arpit Gangwal",
+        "singer": "Pooja Rathore",
+        "cast": null
       },
       {
         "id": 10,
         "link": "https://youtu.be/2RyDqXwHzhY",
+        "role": "Associate Director",
         "title": "Musafir",
         "slug": "musafir-arjan-singh",
-        "thumbnail": "Thumbnail/673.png"
+        "thumbnail": "Thumbnail/673.png",
+        "text": "Directed by Arpit Gangwal",
+        "singer": "Arjan Singh",
+        "cast": null
       },
       {
         "id": 11,
         "link": "https://youtu.be/S1T1jGLSgZ4",
-        "title": "Tera Naam Video | Tulsi Kumar, Darshan Raval | Manan Bhardwaj | Navjit Buttar | Bhushan Kumar",
+        "role": "Assistant Director",
+        "title": "Tere Naam (Music Video)",
         "slug": "tere-naam-music-video",
-        "thumbnail": "Thumbnail/693.png"
+        "thumbnail": "Thumbnail/693.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Tulsi Kumar & Darshan Rawal",
+        "cast": null
       },
       {
         "id": 12,
         "link": "https://youtu.be/LMGFhElKlIY",
-        "title": "Meri Tarah (Video) | Jubin N, Payal D | Himansh K, Heli, Gautam G | Kunaal V | Navjit B | Bhushan Kumar",
+        "role": "Assistant Director",
+        "title": "Meri Tarah (Music Video)",
         "slug": "meri-tarah-music-video",
-        "thumbnail": "Thumbnail/697.png"
+        "thumbnail": "Thumbnail/697.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Jubin Nautiyal, Payal Dev",
+        "cast": "Himansh Kohli, Heli Daruwala & Gautam Gulati"
       },
       {
         "id": 13,
         "link": "https://youtu.be/eY3m3ji1q84",
-        "title": "Tu Bhi Sataya Jayega (Official Video) Vishal Mishra | Aly Goni, Jasmin Bhasin | VYRL Originals",
+        "role": "Assistant Director",
+        "title": "Tu Bhi Sataya Jayega (Music Video)",
         "slug": "tu-bhi-sataya-jayega",
-        "thumbnail": "Thumbnail/699.png"
+        "thumbnail": "Thumbnail/699.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Vishal Mishra",
+        "cast": "Aly Goni & Jasmin Bhasin"
       }
     ]
   },
@@ -284,15 +432,15 @@
         "id": 1,
         "link": "https://www.hotstar.com/1620047706",
         "title": "Metro Short Films On HOTSTAR",
-        "slug" : "metro-hotstar",
-        "thumbnail" : "Thumbnail/disneyHotstar.jpg"
+        "slug": "metro-hotstar",
+        "thumbnail": "Thumbnail/disneyHotstar.jpg"
       },
       {
         "id": 2,
         "link": "https://www.hotstar.com/1260105268",
         "title": "Shikayat Short Film On HOTSTAR",
-        "slug" : "shikayat-hotstar",
-        "thumbnail" : "Thumbnail/disneyHotstar.jpg"
+        "slug": "shikayat-hotstar",
+        "thumbnail": "Thumbnail/disneyHotstar.jpg"
       }
     ]
   }
