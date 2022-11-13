@@ -17,7 +17,7 @@ export default function LinkPage({}) {
     return (
       <>
         <Grid container mt={2}>
-          <Grid item lg={6} md={6} xs={12}>
+          <Grid item lg={6} md={6} sm={6} xs={12}>
             <Paper sx={{ position: "relative", paddingTop: "56.25%" }}>
               <ReactPlayer
                 url={link}
@@ -33,7 +33,7 @@ export default function LinkPage({}) {
               />
             </Paper>
           </Grid>
-          <Grid item lg={6} md={6} xs={12}>
+          <Grid item lg={6} md={6} sm={6} xs={12}>
             <VideoDetails>
               <p>{title}</p>
               <p style={{ color: "rgb(100,100,100)" }}>
@@ -80,11 +80,19 @@ const VideoDetails = styled.div`
   p {
     width: 100%;
     font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
+    @media all and (max-width: 485px) {
+      font-size: 1.25rem;
+    }
   }
   p:first-of-type,
   p:nth-of-type(2) mark {
     font-size: 3rem;
     padding: 0 1%;
     font-weight: 900;
+    font-family: "Montserrat", sans-serif;
+    @media all and (max-width: 485px) {
+      font-size: 2.25rem;
+    }
   }
 `;

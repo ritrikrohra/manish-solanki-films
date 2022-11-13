@@ -10,35 +10,41 @@ export default function Footer() {
           <SocialHandles>
             <ul>
               <li>
-                <a href="#" type="_blank">
+                <a href="tel:+918094149991">
                   <Ai.AiOutlinePhone />
                 </a>
               </li>
               <li>
-                <a href="#" type="_blank">
+                <a
+                  href="https://www.facebook.com/manishkumar.solanki.982"
+                  target="_blank"
+                >
                   <Ai.AiOutlineFacebook />
                 </a>
               </li>
               <li>
-                <a href="#" type="_blank">
+                <a
+                  href="https://www.instagram.com/manishsolanki06/"
+                  target="blank"
+                >
                   <Ai.AiOutlineInstagram />
                 </a>
               </li>
               <li>
-                <a href="#" type="_blank">
+                <a href="https://wa.me/+918094149991" target="_blank">
                   <Ai.AiOutlineWhatsApp />
                 </a>
               </li>
-              <li>
-                <a href="#" type="_blank">
+              {/* <li>
+                <a href="#" target="_blank">
                   <Ai.AiOutlineTwitter />
                 </a>
               </li>
               <li>
-                <a href="#" type="_blank">
+                <a href="#" target="_blank">
                   <Ai.AiOutlineYoutube />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </SocialHandles>
           <ExtraText>
@@ -71,7 +77,10 @@ const SocialHandles = styled.div`
   }
   ul li a {
     color: black;
-    font-size: 3.5rem;
+    font-size: 5rem;
+    @media all and (max-width: 600px) {
+      font-size: 4rem;
+    }
   }
 `;
 const ExtraText = styled.div`
@@ -79,5 +88,8 @@ const ExtraText = styled.div`
   text-align: right;
   p {
     font-family: "Montserrat", sans-serif;
+  }
+  @media all and (max-width: 600px) {
+    font-size: 1.25rem;
   }
 `;

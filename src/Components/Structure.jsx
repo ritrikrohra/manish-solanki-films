@@ -49,7 +49,7 @@ export default function Structure(props) {
       <Grid container key={key} spacing={1}>
         {data.works?.map((work, id) => (
           <>
-            <Grid item lg={4} md={4} xs={12} key={id}>
+            <Grid item lg={4} md={4} sm={6} xs={12} key={id}>
               <Paper
                 elevation={5}
                 sx={{ position: "relative", paddingTop: "56.25%" }}
@@ -58,20 +58,54 @@ export default function Structure(props) {
                   className="videoThumbnailDiv"
                   style={{ backgroundImage: `url(${work.thumbnail})` }}
                 >
-                  <Link
-                    className="videoThumbnailLink"
-                    to={`${work.slug}`}
-                    style={{ width: "100%", height: "100%" }}
-                  >
-                    <DetailThumbnailDiv className="detailThumbnailDiv">
-                      <p>
-                        <mark>{work.title}</mark>
-                      </p>
-                      <p>
-                        <mark>{work.role}</mark>
-                      </p>
-                    </DetailThumbnailDiv>
-                  </Link>
+                  {work.platform != "YOUTUBE" ? (
+                    <a
+                      href={`${work.link}`}
+                      target="_blank"
+                      className="videoThumbnailLink"
+                      style={{ width: "100%", height: "100%" }}
+                    >
+                      <DetailThumbnailDiv className="detailThumbnailDiv">
+                        {work.title ? (
+                          <p>
+                            <mark>{work.title}</mark>
+                          </p>
+                        ) : (
+                          <></>
+                        )}
+                        {work.role ? (
+                          <p>
+                            <mark>{work.role}</mark>
+                          </p>
+                        ) : (
+                          <></>
+                        )}
+                      </DetailThumbnailDiv>
+                    </a>
+                  ) : (
+                    <Link
+                      className="videoThumbnailLink"
+                      to={`${work.slug}`}
+                      style={{ width: "100%", height: "100%" }}
+                    >
+                      <DetailThumbnailDiv className="detailThumbnailDiv">
+                        {work.title ? (
+                          <p>
+                            <mark>{work.title}</mark>
+                          </p>
+                        ) : (
+                          <></>
+                        )}
+                        {work.role ? (
+                          <p>
+                            <mark>{work.role}</mark>
+                          </p>
+                        ) : (
+                          <></>
+                        )}
+                      </DetailThumbnailDiv>
+                    </Link>
+                  )}
                 </MainThumbnailDiv>
 
                 {/* <ReactPlayer
@@ -145,10 +179,15 @@ const DetailThumbnailDiv = styled.div`
   justify-content: end;
   padding-bottom: 5%;
   color: white;
+  text-align: center;
+  p {
+    width: 100%;
+  }
   p mark {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     background-color: black;
     color: white;
-    padding: 0 5px;
+    padding: 0 1%;
+    font-family: "Montserrat", sans-serif;
   }
 `;

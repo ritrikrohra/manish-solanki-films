@@ -78,9 +78,15 @@ const ContainerDiv = styled.div`
   display: flex;
   justify-content: space-around;
   align-items: center;
+  @media all and (max-width: 712px) {
+    flex-direction: column;
+  }
 `;
 const TagName = styled.div`
   width: 50%;
+  @media all and (max-width: 712px) {
+    width: 100%;
+  }
   a {
     text-decoration: none;
   }
@@ -98,6 +104,9 @@ const TagName = styled.div`
 `;
 const LinksName = styled.div`
   width: 50%;
+  @media all and (max-width: 712px) {
+    width: 100%;
+  }
   ul {
     width: 100%;
     display: flex;
@@ -107,6 +116,12 @@ const LinksName = styled.div`
   ul li {
     margin-left: 3%;
     font-size: 2.5rem;
+    @media all and (max-width: 812px) {
+      font-size: 2.2rem;
+    }
+    @media all and (max-width: 355px) {
+      font-size: 2rem;
+    }
   }
   ul li a {
     color: black;

@@ -6,6 +6,7 @@
       {
         "id": 1,
         "link": "https://youtu.be/S1T1jGLSgZ4",
+        "platform": "YOUTUBE",
         "role": "Assistant Director",
         "title": "Tere Naam (Music Video)",
         "slug": "tere-naam-music-video-main",
@@ -17,6 +18,7 @@
       {
         "id": 2,
         "link": "https://youtu.be/LMGFhElKlIY",
+        "platform": "YOUTUBE",
         "role": "Assistant Director",
         "title": "Meri Tarah (Music Video)",
         "slug": "meri-tarah-music-video-main",
@@ -28,6 +30,7 @@
       {
         "id": 3,
         "link": "https://youtu.be/eY3m3ji1q84",
+        "platform": "YOUTUBE",
         "role": "Assistant Director",
         "title": "Tu Bhi Sataya Jayega (Music Video)",
         "slug": "tu-bhi-sataya-jayega-main",
@@ -39,6 +42,7 @@
       {
         "id": 4,
         "link": "https://youtu.be/96oAebJ8dig",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Yahi Toh Chance Hai",
         "slug": "vision11-yahi-toh-chance-hai-main",
@@ -50,6 +54,7 @@
       {
         "id": 5,
         "link": "https://youtu.be/WYczB8J_Yhg",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Genie Ka Nhi Chalega",
         "slug": "vision11-genie-ka-nhi-main",
@@ -61,6 +66,7 @@
       {
         "id": 6,
         "link": "https://youtu.be/HOUgl8xFIJ4",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Dimag Lagao",
         "slug": "vision11-dimag-lagao-main",
@@ -72,6 +78,7 @@
       {
         "id": 7,
         "link": "https://youtu.be/nUDvpMOuJPw",
+        "platform": "YOUTUBE",
         "role": "Co-Director",
         "title": "Laal Peeli Ankhiyan (Music Video)",
         "slug": "laal-peeli-ankhiyan-main",
@@ -83,6 +90,7 @@
       {
         "id": 8,
         "link": "https://youtu.be/6iYb4HtRmwg",
+        "platform": "YOUTUBE",
         "role": "Co-Director",
         "title": "Jogiya (Music Video)",
         "slug": "jogiya-mame-khan-main",
@@ -94,6 +102,7 @@
       {
         "id": 9,
         "link": "https://youtu.be/IZbBiAiO7JQ",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Tere Mere Beech (Music Video)",
         "slug": "tere-mere-beech-main",
@@ -111,6 +120,7 @@
       {
         "id": 1,
         "link": "https://youtu.be/_jZFfnrfvA8",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Pollard Is Waiting",
         "slug": "vision11-pollard-is-waiting",
@@ -122,6 +132,7 @@
       {
         "id": 2,
         "link": "https://youtu.be/96oAebJ8dig",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Yahi Toh Chance Hai",
         "slug": "vision11-yahi-toh-chance-hai",
@@ -133,6 +144,7 @@
       {
         "id": 3,
         "link": "https://youtu.be/1q-lrk8pGf8",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Take A Break",
         "slug": "vision11-take-a-break",
@@ -144,6 +156,7 @@
       {
         "id": 4,
         "link": "https://youtu.be/WYczB8J_Yhg",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Genie Ka Nhi Chalega",
         "slug": "vision11-genie-ka-nhi",
@@ -155,6 +168,7 @@
       {
         "id": 5,
         "link": "https://youtu.be/dlo7qFM2wJI",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Fame Wala Game",
         "slug": "vision11-fame-wala-game",
@@ -166,6 +180,7 @@
       {
         "id": 6,
         "link": "https://youtu.be/HOUgl8xFIJ4",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Dimag Lagao",
         "slug": "vision11-dimag-lagao",
@@ -177,6 +192,7 @@
       {
         "id": 7,
         "link": "https://youtu.be/fkVHuOcuz-g",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Next Match Ka",
         "slug": "vision11-next-match-ka",
@@ -188,6 +204,7 @@
       {
         "id": 8,
         "link": "https://youtu.be/edMKY4KkzlE",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Win In Lakhs",
         "slug": "vision11-win-in-lakhs",
@@ -199,6 +216,7 @@
       {
         "id": 9,
         "link": "https://youtu.be/9bs-qe258r4",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Match Offline Ho Ya Online",
         "slug": "vision11-match-offline-ho",
@@ -210,6 +228,7 @@
       {
         "id": 10,
         "link": "https://youtu.be/izxOd1I1C6c",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Beat Your Competitors",
         "slug": "vision11-beat-your-competitors",
@@ -221,6 +240,7 @@
       {
         "id": 11,
         "link": "https://youtu.be/w-L5KP10hsI",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Apni Favorite Players",
         "slug": "vision11-apni-favorite-players",
@@ -232,6 +252,7 @@
       {
         "id": 12,
         "link": "https://youtu.be/A4CL1M7i9Y0",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Kaam Kya Karte Hai",
         "slug": "vision11-kaam-kya-karte",
@@ -243,6 +264,7 @@
       {
         "id": 13,
         "link": "https://youtu.be/ctY38wGdIDw",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Kya Panditji",
         "slug": "vision11-kya-panditji-ko",
@@ -254,6 +276,7 @@
       {
         "id": 14,
         "link": "https://youtu.be/EP82GG1ceD0",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Vision 11 - Paise Lagao Paise",
         "slug": "vision11-paise-lagao-paise",
@@ -265,6 +288,7 @@
       {
         "id": 15,
         "link": "https://youtu.be/PTdkJfKCb7w",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Royal Enfield - The World Full Of Surprises",
         "slug": "royal-enfield-the-world",
@@ -282,6 +306,7 @@
       {
         "id": 1,
         "link": "https://youtu.be/ZA52iC1Mxvk",
+        "platform": "YOUTUBE",
         "title": "Tu Mile Dil Khile (Music Video)",
         "role": "Director",
         "slug": "tu-mile-dil-khile",
@@ -293,6 +318,7 @@
       {
         "id": 2,
         "link": "https://youtu.be/IZbBiAiO7JQ",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Tere Mere Beech (Music Video)",
         "slug": "tere-mere-beech",
@@ -304,6 +330,7 @@
       {
         "id": 3,
         "link": "https://youtu.be/nPXT73objSY",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Do Kadam (Music Video)",
         "slug": "do-kadam",
@@ -315,6 +342,7 @@
       {
         "id": 4,
         "link": "https://youtu.be/rbraqW4ZBIY",
+        "platform": "YOUTUBE",
         "role": "Director",
         "title": "Apradhi (Music Video)",
         "slug": "apradhi-ruhaan-x-daksh",
@@ -326,6 +354,7 @@
       {
         "id": 5,
         "link": "https://youtu.be/nUDvpMOuJPw",
+        "platform": "YOUTUBE",
         "role": "Co-Director",
         "title": "Laal Peeli Ankhiyan (Music Video)",
         "slug": "laal-peeli-ankhiyan",
@@ -337,6 +366,7 @@
       {
         "id": 6,
         "link": "https://youtu.be/6iYb4HtRmwg",
+        "platform": "YOUTUBE",
         "role": "Co-Director",
         "title": "Jogiya (Music Video)",
         "slug": "jogiya-mame-khan",
@@ -348,6 +378,7 @@
       {
         "id": 7,
         "link": "https://youtu.be/MqL-EZkVkuA",
+        "platform": "YOUTUBE",
         "role": "Co-Director",
         "title": "Dabi Rahi - Akshay Agarwal",
         "slug": "dabi-rahi-akshay-agarwal",
@@ -359,6 +390,7 @@
       {
         "id": 8,
         "link": "https://youtu.be/wuu6IckFNGI",
+        "platform": "YOUTUBE",
         "role": "Associate Director",
         "title": "Saajan Re (Music Video)",
         "slug": "saajan-re-hariprem-films",
@@ -370,6 +402,7 @@
       {
         "id": 9,
         "link": "https://youtu.be/FTeI75h-NHQ",
+        "platform": "YOUTUBE",
         "role": "Associate Director",
         "title": "Aaja Ve Maahi",
         "slug": "aaja-ve-maahi",
@@ -381,6 +414,7 @@
       {
         "id": 10,
         "link": "https://youtu.be/2RyDqXwHzhY",
+        "platform": "YOUTUBE",
         "role": "Associate Director",
         "title": "Musafir",
         "slug": "musafir-arjan-singh",
@@ -392,6 +426,7 @@
       {
         "id": 11,
         "link": "https://youtu.be/S1T1jGLSgZ4",
+        "platform": "YOUTUBE",
         "role": "Assistant Director",
         "title": "Tere Naam (Music Video)",
         "slug": "tere-naam-music-video",
@@ -403,6 +438,7 @@
       {
         "id": 12,
         "link": "https://youtu.be/LMGFhElKlIY",
+        "platform": "YOUTUBE",
         "role": "Assistant Director",
         "title": "Meri Tarah (Music Video)",
         "slug": "meri-tarah-music-video",
@@ -414,6 +450,7 @@
       {
         "id": 13,
         "link": "https://youtu.be/eY3m3ji1q84",
+        "platform": "YOUTUBE",
         "role": "Assistant Director",
         "title": "Tu Bhi Sataya Jayega (Music Video)",
         "slug": "tu-bhi-sataya-jayega",
@@ -431,14 +468,16 @@
       {
         "id": 1,
         "link": "https://www.hotstar.com/1620047706",
-        "title": "Metro Short Films On HOTSTAR",
+        "platform": "HOTSTAR",
+        "title": "Metro (Short Film)",
         "slug": "metro-hotstar",
         "thumbnail": "Thumbnail/disneyHotstar.jpg"
       },
       {
         "id": 2,
         "link": "https://www.hotstar.com/1260105268",
-        "title": "Shikayat Short Film On HOTSTAR",
+        "platform": "HOTSTAR",
+        "title": "Shikayat (Short Film)",
         "slug": "shikayat-hotstar",
         "thumbnail": "Thumbnail/disneyHotstar.jpg"
       }
