@@ -35,6 +35,11 @@ export default function Footer() {
                   <Ai.AiOutlineWhatsApp />
                 </a>
               </li>
+              <li>
+                <a href="mailto:skmanish93@gmail.com" target="_blank">
+                  <Ai.AiOutlineMail />
+                </a>
+              </li>
               {/* <li>
                 <a href="#" target="_blank">
                   <Ai.AiOutlineTwitter />

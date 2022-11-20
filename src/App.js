@@ -7,7 +7,7 @@ import Film from "./Components/Categories/Film";
 import LinkPage from "./Components/LinkPage";
 import NoPageMatch from "./Components/NoPageMatch";
 import Main from "./Components/Main";
-// import KnowMe from "./Components/KnowMe";
+import Bio from "./Components/Bio";
 // import Navbar from "./Components/Navbar";
 
 function App() {
@@ -16,6 +16,7 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Main />}>
           <Route exact index element={<Home />} />
+          <Route exact path="bio" element={<Bio />} />
           <Route exact path=":linkSlug" element={<LinkPage />} />
           <Route exact path="advertisement" element={<Advertisement />} />
           <Route exact path="advertisement/:linkSlug" element={<LinkPage />} />

@@ -36,9 +36,6 @@ export default function LinkPage({}) {
           <Grid item lg={6} md={6} sm={6} xs={12}>
             <VideoDetails>
               <p>{title}</p>
-              <p style={{ color: "rgb(100,100,100)" }}>
-                <mark>{role}</mark>
-              </p>
               {text ? (
                 <>
                   <p>{text}</p>
@@ -46,6 +43,7 @@ export default function LinkPage({}) {
               ) : (
                 <></>
               )}
+              <p>{role}</p>
               {singer ? (
                 <>
                   <p>Artist: {singer}</p>
@@ -70,6 +68,7 @@ export default function LinkPage({}) {
 }
 
 const VideoDetails = styled.div`
+padding : 5%;
   width: 100%;
   height: 100%;
   text-align: center;
@@ -85,8 +84,7 @@ const VideoDetails = styled.div`
       font-size: 1.25rem;
     }
   }
-  p:first-of-type,
-  p:nth-of-type(2) mark {
+  p:first-of-type {
     font-size: 3rem;
     padding: 0 1%;
     font-weight: 900;
@@ -95,4 +93,13 @@ const VideoDetails = styled.div`
       font-size: 2.25rem;
     }
   }
+  p:nth-of-type(3) {
+    font-size: 2.3rem;
+    font-weight : bolder;
+    padding: 0 1%;
+    font-weight: 900;
+    font-family: "Montserrat", sans-serif;
+    @media all and (max-width: 485px) {
+      font-size: 2.25rem;
+    }
 `;

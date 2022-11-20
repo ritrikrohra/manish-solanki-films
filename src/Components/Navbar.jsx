@@ -11,18 +11,26 @@ export default function Navbar() {
     <>
       <Nav>
         <ContainerDiv>
-          <TagName>
+          {/* <TagName>
             <Link to="">
-              <p>
-                <mark style={{ backgroundColor: "yellow", padding: "0 1%" }}>
-                  Manish Solanki
-                </mark>
-              </p>
-              <span>Director</span>
+              <p>MANISH SOLANKI</p>
+              <p>DIRECTOR</p>
             </Link>
-          </TagName>
+          </TagName> */}
+
+          <TagNameImageDiv>
+            <img src="ms-tagName-black-lessSpace.png" alt="Manish Solanki" />
+          </TagNameImageDiv>
           <LinksName>
             <ul>
+              <li>
+                <NavLink
+                  to="bio"
+                  style={({ isActive }) => (isActive ? activeStyle : undefined)}
+                >
+                  Bio
+                </NavLink>
+              </li>
               <li>
                 <NavLink
                   to=""
@@ -68,7 +76,7 @@ export default function Navbar() {
 
 const Nav = styled.nav`
   width: 100%;
-  padding: 5vh 0;
+  padding: 5vh 0 10vh 0;
 `;
 const ContainerDiv = styled.div`
   width: 90%;
@@ -82,28 +90,50 @@ const ContainerDiv = styled.div`
     flex-direction: column;
   }
 `;
-const TagName = styled.div`
-  width: 50%;
+
+// const TagName = styled.div`
+//   width: 50%;
+//   @media all and (max-width: 712px) {
+//     width: 100%;
+//   }
+//   a {
+//     text-decoration: none;
+//   }
+//   a p: nth-of-type(1){
+//     font-size: 3rem;
+//     font-weight: bolder;
+//     // font-family: "Libre Baskerville", serif;
+//     font-family: "Noto Serif Oriya", serif;
+//     color: black;
+//     line-height : 1.6rem;
+//   }
+//   a p: nth-of-type(2){
+//     font-size: 1.5rem;
+//     // font-family: "Libre Baskerville", serif;
+//     // font-family: "Noto Serif Oriya", serif;
+//     font-family: 'Roboto', sans-serif;
+//     color: black;
+//     width : 100%;
+//     padding-left : 33%;
+//     letter-spacing : 0.1rem;
+//     // font-weight : 500;
+//   }
+// `;
+
+const TagNameImageDiv = styled.div`
+  width: 33.3%;
   @media all and (max-width: 712px) {
-    width: 100%;
+    width: 70%;
   }
-  a {
-    text-decoration: none;
-  }
-  a p mark {
-    font-size: 3rem;
-    font-weight: bolder;
-    font-family: "Libre Baskerville", serif;
-    color: black;
-  }
-  a span {
-    font-size: 1.5rem;
-    font-family: "Libre Baskerville", serif;
-    color: black;
+  img {
+    width: 70%;
+    @media all and (max-width: 712px) {
+      width: 100%;
+    }
   }
 `;
 const LinksName = styled.div`
-  width: 50%;
+  width: 66.6%;
   @media all and (max-width: 712px) {
     width: 100%;
   }
@@ -112,12 +142,18 @@ const LinksName = styled.div`
     display: flex;
     justify-content: right;
     list-style-type: none;
+    @media all and (max-width: 712px) {
+      justify-content: center;
+    }
   }
   ul li {
     margin-left: 3%;
     font-size: 2.5rem;
     @media all and (max-width: 812px) {
       font-size: 2.2rem;
+    }
+    @media all and (max-width: 712px) {
+      margin: 0 1.5%;
     }
     @media all and (max-width: 355px) {
       font-size: 2rem;

@@ -46,7 +46,7 @@ export default function Structure(props) {
 
   return (
     <>
-      <Grid container key={key} spacing={1}>
+      <Grid container key={key}>
         {data.works?.map((work, id) => (
           <>
             <Grid item lg={4} md={4} sm={6} xs={12} key={id}>
@@ -66,20 +66,14 @@ export default function Structure(props) {
                       style={{ width: "100%", height: "100%" }}
                     >
                       <DetailThumbnailDiv className="detailThumbnailDiv">
-                        {work.title ? (
-                          <p>
-                            <mark>{work.title}</mark>
-                          </p>
-                        ) : (
-                          <></>
-                        )}
-                        {work.role ? (
+                        {work.title ? <p>{work.title}</p> : <></>}
+                        {/* {work.role ? (
                           <p>
                             <mark>{work.role}</mark>
                           </p>
                         ) : (
                           <></>
-                        )}
+                        )} */}
                       </DetailThumbnailDiv>
                     </a>
                   ) : (
@@ -89,20 +83,14 @@ export default function Structure(props) {
                       style={{ width: "100%", height: "100%" }}
                     >
                       <DetailThumbnailDiv className="detailThumbnailDiv">
-                        {work.title ? (
-                          <p>
-                            <mark>{work.title}</mark>
-                          </p>
-                        ) : (
-                          <></>
-                        )}
-                        {work.role ? (
+                        {work.title ? <p>{work.title}</p> : <></>}
+                        {/* {work.role ? (
                           <p>
                             <mark>{work.role}</mark>
                           </p>
                         ) : (
                           <></>
-                        )}
+                        )} */}
                       </DetailThumbnailDiv>
                     </Link>
                   )}
@@ -151,7 +139,7 @@ const MainThumbnailDiv = styled.div`
   }
   a {
     text-decoration: none;
-    opacity: 0;
+    opacity: 1;
     width: 100%;
     height: 100%;
     position: relative;
@@ -164,11 +152,11 @@ const MainThumbnailDiv = styled.div`
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(50, 50, 50, 0.3);
+    // background-color: rgba(50, 50, 50, 0.3);
   }
-  a:hover {
-    opacity: 1;
-  }
+  // a:hover {
+  //   opacity: 1;
+  // }
 `;
 const DetailThumbnailDiv = styled.div`
   width: 100%;
@@ -179,15 +167,13 @@ const DetailThumbnailDiv = styled.div`
   justify-content: end;
   padding-bottom: 5%;
   color: white;
-  text-align: center;
+  text-align: left;
+  padding-left: 3%;
   p {
     width: 100%;
-  }
-  p mark {
-    font-size: 1.5rem;
-    background-color: black;
+    font-size: 1.8rem;
     color: white;
-    padding: 0 1%;
-    font-family: "Montserrat", sans-serif;
+    // font-family: "Montserrat", sans-serif;
+    font-family: "Noto Serif Oriya", serif;
   }
 `;

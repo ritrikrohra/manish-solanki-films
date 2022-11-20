@@ -1,6 +1,7 @@
 import React from "react";
 import record from "../../Records/AllRecord.json";
-import Structure from "../Structure";
+// import Structure from "../Structure";
+import StructureNew from "../StructureNew";
 
 export default function Home() {
   const filtered = record?.filter((data) => data.type === "Main");
@@ -8,7 +9,8 @@ export default function Home() {
   return (
     <>
       {filtered?.map((data, key) => (
-        <Structure data={data} key={key} />
+        // <Structure data={data} key={key} />
+        <StructureNew data={data} key={key} />
       ))}
     </>
   );
