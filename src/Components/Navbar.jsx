@@ -19,7 +19,9 @@ export default function Navbar() {
           </TagName> */}
 
           <TagNameImageDiv>
-            <img src="ms-tagName-black-lessSpace.png" alt="Manish Solanki" />
+            <Link to="">
+              <img src="ms-tagName-black-lessSpace.png" alt="Manish Solanki" />
+            </Link>
           </TagNameImageDiv>
           <LinksName>
             <ul>
@@ -52,7 +54,7 @@ export default function Navbar() {
                   to="music-video"
                   style={({ isActive }) => (isActive ? activeStyle : undefined)}
                 >
-                  Music Videos
+                  MusicVideos
                 </NavLink>
               </li>
               <li>
@@ -122,10 +124,13 @@ const ContainerDiv = styled.div`
 
 const TagNameImageDiv = styled.div`
   width: 33.3%;
+  a {
+    width: 100%;
+  }
   @media all and (max-width: 712px) {
     width: 70%;
   }
-  img {
+  a img {
     width: 70%;
     @media all and (max-width: 712px) {
       width: 100%;
@@ -150,10 +155,10 @@ const LinksName = styled.div`
     margin-left: 3%;
     font-size: 2.5rem;
     @media all and (max-width: 812px) {
-      font-size: 2.2rem;
+      font-size: 2.1rem;
     }
     @media all and (max-width: 712px) {
-      margin: 0 1.5%;
+      margin: 0 1%;
     }
     @media all and (max-width: 355px) {
       font-size: 2rem;
