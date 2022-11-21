@@ -10,7 +10,7 @@ export default function Bio() {
           <Grid item lg={4} md={4} sm={4} xs={12}>
             <BioPicDiv>
               <img src="ms-bio-pic-sq.jpg" alt="Manish Solanki" />
-              <p>Manish Kumar Solanki</p>
+              <p>Manish Solanki</p>
             </BioPicDiv>
           </Grid>
           <Grid item lg={8} md={8} sm={8} xs={12}>
