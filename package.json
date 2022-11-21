@@ -1,7 +1,6 @@
 {
   "name": "manish-solanki-films",
   "version": "0.1.0",
-  "homepage": "https://ritrikrohra.github.io/manish-solanki-films/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
