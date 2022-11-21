@@ -1,6 +1,7 @@
 {
   "name": "manish-solanki-films",
   "version": "0.1.0",
+  "homepage": "https://www.manishsolanki.co.in",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
