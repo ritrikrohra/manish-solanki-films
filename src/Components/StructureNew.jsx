@@ -89,6 +89,7 @@ const ThumbnailTextDiv = styled.div`
   }
   p:first-of-type {
     text-transform: uppercase;
+    line-height : 1.5rem;
   }
   p:last-of-type {
     font-size: 1.5rem;

@@ -27,18 +27,18 @@ export default function Navbar() {
             <ul>
               <li>
                 <NavLink
-                  to="bio"
-                  style={({ isActive }) => (isActive ? activeStyle : undefined)}
-                >
-                  Bio
-                </NavLink>
-              </li>
-              <li>
-                <NavLink
                   to=""
                   style={({ isActive }) => (isActive ? activeStyle : undefined)}
                 >
                   Home
+                </NavLink>
+              </li>
+              <li>
+                <NavLink
+                  to="bio"
+                  style={({ isActive }) => (isActive ? activeStyle : undefined)}
+                >
+                  Bio
                 </NavLink>
               </li>
               <li>
@@ -79,6 +79,10 @@ export default function Navbar() {
 const Nav = styled.nav`
   width: 100%;
   padding: 5vh 0 10vh 0;
+  @media all and (max-width: 712px) {
+    flex-direction: column;
+    padding: 5vh 0 5vh 0;
+  }
 `;
 const ContainerDiv = styled.div`
   width: 90%;
@@ -149,6 +153,7 @@ const LinksName = styled.div`
     list-style-type: none;
     @media all and (max-width: 712px) {
       justify-content: center;
+      margin-top: 2%;
     }
   }
   ul li {

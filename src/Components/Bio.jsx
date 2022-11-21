@@ -20,7 +20,7 @@ export default function Bio() {
                 Watching Jurassic Park, Indiana Jones etc. at a very young age
                 left him with fascination & a million questions. He began
                 expressing himself through stage plays and musical instruments
-                but knew there was more to it
+                but knew there was more to it.
               </p>
               <br />
               <br />
@@ -49,10 +49,10 @@ export default function Bio() {
                 with sportsmen like{" "}
                 <b>Manish Pandey, Keiron Pollard, Axar Patel</b>. He’s also been
                 a part of a few music videos such as{" "}
-                <b>Tere Naam by Darshan Rawal</b> &{" "}
+                <b>Tere Naam by Darshan Rawal, Tulsi Kumar</b> &{" "}
                 <b>Meri Tarah by Jubin Nautiyal</b>, both in Assistance with
-                Navjit Buttar. His films namely <b>Shikayat</b> and <b>Metro</b>{" "}
-                have been featured on platforms like <b>Hotstar</b>.
+                Navjit Buttar who is the pioneer of the current Music Video. His films namely <b>Shikayat</b> and <b>Metro</b>{" "}
+                have been featured on platform: <b>Hotstar</b>.
               </p>
             </BioParaDiv>
           </Grid>

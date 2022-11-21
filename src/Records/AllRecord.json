@@ -12,8 +12,8 @@
         "slug": "tere-naam-music-video-main",
         "thumbnail": "Thumbnail/693.png",
         "text": "Directed by Navjit Buttar",
-        "singer": "Tulsi Kumar & Darshan Rawal",
-        "cast": "Darshan Rawal"
+        "singer": "Darshan Rawal & Tulsi Kumar",
+        "cast": "Darshan Rawal & Tulsi Kumar"
       },
       {
         "id": 2,
@@ -324,8 +324,8 @@
         "slug": "tere-naam-music-video",
         "thumbnail": "Thumbnail/693.png",
         "text": "Directed by Navjit Buttar",
-        "singer": "Tulsi Kumar & Darshan Rawal",
-        "cast": null
+        "singer": "Darshan Rawal & Tulsi Kumar",
+        "cast": "Darshan Rawal & Tulsi Kumar"
       },
       {
         "id": 2,
@@ -484,7 +484,7 @@
         "title": "Metro",
         "slug": "metro-hotstar",
         "thumbnail": "Thumbnail/metro-hotstar.webp",
-        "cast": null
+        "cast": "Garima Chouhan & Sonesh Arya"
       },
       {
         "id": 2,
