@@ -51,7 +51,7 @@ export default function Bio() {
                 a part of a few music videos such as{" "}
                 <b>Tere Naam by Darshan Rawal, Tulsi Kumar</b> &{" "}
                 <b>Meri Tarah by Jubin Nautiyal</b>, both in Assistance with
-                Navjit Buttar who is the pioneer of the current Music Video. His films namely <b>Shikayat</b> and <b>Metro</b>{" "}
+                <b>Navjit Buttar</b> who is the pioneer of the current Music Videos. His films namely <b>Shikayat</b> and <b>Metro</b>{" "}
                 have been featured on platform: <b>Hotstar</b>.
               </p>
             </BioParaDiv>
