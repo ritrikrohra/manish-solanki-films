@@ -44,7 +44,7 @@
         "link": "https://www.instagram.com/reel/CoQ8fBljtha/?igshid=NDdhMjNiZDg=",
         "platform": "INSTAGRAM",
         "role": "Directed by Manish Solanki",
-        "title": "Jaipur Ki Hero Vali Ride",
+        "title": "Naye Jamane Ki Hero Wali Ride",
         "slug": "hero-ad-film-main",
         "thumbnail": "Thumbnail/hero-ad.jpg",
         "text": "Ad Film for Hero",
@@ -60,7 +60,7 @@
         "slug": "tu-mile-dil-khile-main",
         "thumbnail": "Thumbnail/645.png",
         "text": null,
-        "emphasis" : "Uploaded by SAREGAMA",
+        "emphasis": "Uploaded by SAREGAMA",
         "singer": "Aditya Raj",
         "cast": "Aditya Raj"
       },
@@ -73,7 +73,7 @@
         "slug": "ghoomar-music-video-main",
         "thumbnail": "Thumbnail/ghoomar.png",
         "text": null,
-        "emphasis" : "Uploaded by ZEE MUSIC",
+        "emphasis": "Uploaded by ZEE MUSIC",
         "singer": "Shahid Khan",
         "cast": "Shahid Khan - Beats Of Rajasthan"
       },
@@ -172,7 +172,7 @@
         "link": "https://www.instagram.com/reel/CoQ8fBljtha/?igshid=NDdhMjNiZDg=",
         "platform": "INSTAGRAM",
         "role": "Directed by Manish Solanki",
-        "title": "Jaipur Ki Hero Vali Ride",
+        "title": "Naye Jamane Ki Hero Wali Ride",
         "slug": "hero-ad-film",
         "thumbnail": "Thumbnail/hero-ad.jpg",
         "text": "Ad Film for Hero",
@@ -398,7 +398,7 @@
         "slug": "ghoomar-music-video",
         "thumbnail": "Thumbnail/ghoomar.png",
         "text": null,
-        "emphasis" : "Uploaded by ZEE MUSIC",
+        "emphasis": "Uploaded by ZEE MUSIC",
         "singer": "Shahid Khan",
         "cast": "Shahid Khan - Beats Of Rajasthan"
       },
@@ -411,7 +411,7 @@
         "slug": "tu-mile-dil-khile",
         "thumbnail": "Thumbnail/645.png",
         "text": null,
-        "emphasis" : "Uploaded by SAREGAMA",
+        "emphasis": "Uploaded by SAREGAMA",
         "singer": "Aditya Raj",
         "cast": "Aditya Raj"
       },
