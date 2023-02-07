@@ -5,54 +5,18 @@
     "works": [
       {
         "id": 1,
-        "link": "https://youtu.be/S1T1jGLSgZ4",
+        "link": "https://youtu.be/_jZFfnrfvA8",
         "platform": "YOUTUBE",
-        "role": "Assistant Directed by Manish Solanki",
-        "title": "Tere Naam",
-        "slug": "tere-naam-music-video-main",
-        "thumbnail": "Thumbnail/693.png",
-        "text": "Directed by Navjit Buttar",
-        "singer": "Darshan Rawal & Tulsi Kumar",
-        "cast": "Darshan Rawal & Tulsi Kumar"
+        "role": "Directed by Manish Solanki",
+        "title": "Vision 11 - Pollard Is Waiting",
+        "slug": "vision11-pollard-is-waiting-main",
+        "thumbnail": "Thumbnail/593.png",
+        "text": "Ad Film for Vision-11",
+        "singer": null,
+        "cast": "Kieron Pollard & Badri Chavan"
       },
       {
         "id": 2,
-        "link": "https://youtu.be/LMGFhElKlIY",
-        "platform": "YOUTUBE",
-        "role": "Assistant Directed by Manish Solanki",
-        "title": "Meri Tarah",
-        "slug": "meri-tarah-music-video-main",
-        "thumbnail": "Thumbnail/697.png",
-        "text": "Directed by Navjit Buttar",
-        "singer": "Jubin Nautiyal, Payal Dev",
-        "cast": "Himansh Kohli, Heli Daruwala & Gautam Gulati"
-      },
-      {
-        "id": 3,
-        "link": "https://youtu.be/eY3m3ji1q84",
-        "platform": "YOUTUBE",
-        "role": "Assistant Directed by Manish Solanki",
-        "title": "Tu Bhi Sataya Jayega ",
-        "slug": "tu-bhi-sataya-jayega-main",
-        "thumbnail": "Thumbnail/699.png",
-        "text": "Directed by Navjit Buttar",
-        "singer": "Vishal Mishra",
-        "cast": "Aly Goni & Jasmin Bhasin"
-      },
-      {
-        "id": 4,
-        "link": "https://youtu.be/96oAebJ8dig",
-        "platform": "YOUTUBE",
-        "role": "Directed by Manish Solanki",
-        "title": "Vision 11 - Yahi Toh Chance Hai",
-        "slug": "vision11-yahi-toh-chance-hai-main",
-        "thumbnail": "Thumbnail/598.png",
-        "text": "Ad Film for Vision-11",
-        "singer": null,
-        "cast": "Kieron Pollard"
-      },
-      {
-        "id": 5,
         "link": "https://youtu.be/Oprok8G-RCU",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -64,16 +28,54 @@
         "cast": "Mohammed Shami"
       },
       {
-        "id": 6,
-        "link": "https://youtu.be/HOUgl8xFIJ4",
+        "id": 3,
+        "link": "https://youtu.be/1q-lrk8pGf8",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
-        "title": "Vision 11 - Dimag Lagao",
-        "slug": "vision11-dimag-lagao-main",
-        "thumbnail": "Thumbnail/600.png",
+        "title": "Vision 11 - Take A Break",
+        "slug": "vision11-take-a-break-main",
+        "thumbnail": "Thumbnail/595.png",
         "text": "Ad Film for Vision-11",
         "singer": null,
-        "cast": "Axar Patel"
+        "cast": "Harshal Patel"
+      },
+      {
+        "id": 4,
+        "link": "https://www.instagram.com/reel/CoQ8fBljtha/?igshid=NDdhMjNiZDg=",
+        "platform": "INSTAGRAM",
+        "role": "Directed by Manish Solanki",
+        "title": "Jaipur Ki Hero Vali Ride",
+        "slug": "hero-ad-film-main",
+        "thumbnail": "Thumbnail/hero-ad.jpg",
+        "text": "Ad Film for Hero",
+        "singer": null,
+        "cast": "Hero"
+      },
+      {
+        "id": 5,
+        "link": "https://youtu.be/ZA52iC1Mxvk",
+        "platform": "YOUTUBE",
+        "title": "Tu Mile Dil Khile ",
+        "role": "Directed by Manish Solanki",
+        "slug": "tu-mile-dil-khile-main",
+        "thumbnail": "Thumbnail/645.png",
+        "text": null,
+        "emphasis" : "Uploaded by SAREGAMA",
+        "singer": "Aditya Raj",
+        "cast": "Aditya Raj"
+      },
+      {
+        "id": 6,
+        "link": "https://youtu.be/1gHTcfETAok",
+        "platform": "YOUTUBE",
+        "title": "Ghoomar - Music Film",
+        "role": "Directed by Manish Solanki",
+        "slug": "ghoomar-music-video-main",
+        "thumbnail": "Thumbnail/ghoomar.png",
+        "text": null,
+        "emphasis" : "Uploaded by ZEE MUSIC",
+        "singer": "Shahid Khan",
+        "cast": "Shahid Khan - Beats Of Rajasthan"
       },
       {
         "id": 7,
@@ -101,6 +103,18 @@
       },
       {
         "id": 9,
+        "link": "https://youtu.be/nPXT73objSY",
+        "platform": "YOUTUBE",
+        "role": "Directed by Manish Solanki",
+        "title": "Do Kadam ",
+        "slug": "do-kadam-main",
+        "thumbnail": "Thumbnail/651.png",
+        "text": null,
+        "singer": "Shivang Shukla",
+        "cast": "Shivang Shukla, Soumaya Parashar & Rajesh Thada"
+      },
+      {
+        "id": 10,
         "link": "https://youtu.be/rbraqW4ZBIY",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -108,8 +122,32 @@
         "slug": "apradhi-ruhaan-x-daksh-main",
         "thumbnail": "Thumbnail/637.png",
         "text": null,
-        "singer": "Ruhaan X Daksh",
+        "singer": "Ruhaan & Daksh",
         "cast": "Ruhaan & Daksh"
+      },
+      {
+        "id": 11,
+        "link": "https://youtu.be/2RyDqXwHzhY",
+        "platform": "YOUTUBE",
+        "role": "Associate Directed by Manish Solanki",
+        "title": "Musafir",
+        "slug": "musafir-arjan-singh-main",
+        "thumbnail": "Thumbnail/673.jpg",
+        "text": "Directed by Arpit Gangwal",
+        "singer": "Arjan Singh",
+        "cast": null
+      },
+      {
+        "id": 12,
+        "link": "https://youtu.be/FTeI75h-NHQ",
+        "platform": "YOUTUBE",
+        "role": "Associate Directed by Manish Solanki",
+        "title": "Aaja Ve Maahi-main",
+        "slug": "aaja-ve-maahi",
+        "thumbnail": "Thumbnail/678.jpg",
+        "text": "Directed by Arpit Gangwal",
+        "singer": "Pooja Rathore",
+        "cast": null
       }
     ]
   },
@@ -131,15 +169,15 @@
       },
       {
         "id": 2,
-        "link": "https://youtu.be/HOUgl8xFIJ4",
-        "platform": "YOUTUBE",
+        "link": "https://www.instagram.com/reel/CoQ8fBljtha/?igshid=NDdhMjNiZDg=",
+        "platform": "INSTAGRAM",
         "role": "Directed by Manish Solanki",
-        "title": "Vision 11 - Dimag Lagao",
-        "slug": "vision11-dimag-lagao",
-        "thumbnail": "Thumbnail/600.png",
-        "text": "Ad Film for Vision-11",
+        "title": "Jaipur Ki Hero Vali Ride",
+        "slug": "hero-ad-film",
+        "thumbnail": "Thumbnail/hero-ad.jpg",
+        "text": "Ad Film for Hero",
         "singer": null,
-        "cast": "Axar Patel"
+        "cast": "Hero"
       },
       {
         "id": 3,
@@ -179,6 +217,18 @@
       },
       {
         "id": 6,
+        "link": "https://youtu.be/HOUgl8xFIJ4",
+        "platform": "YOUTUBE",
+        "role": "Directed by Manish Solanki",
+        "title": "Vision 11 - Dimag Lagao",
+        "slug": "vision11-dimag-lagao",
+        "thumbnail": "Thumbnail/600.png",
+        "text": "Ad Film for Vision-11",
+        "singer": null,
+        "cast": "Axar Patel"
+      },
+      {
+        "id": 7,
         "link": "https://youtu.be/w-L5KP10hsI",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -190,7 +240,7 @@
         "cast": "Manish Pandey"
       },
       {
-        "id": 7,
+        "id": 8,
         "link": "https://youtu.be/WYczB8J_Yhg",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -202,7 +252,7 @@
         "cast": "Harshal Patel"
       },
       {
-        "id": 8,
+        "id": 9,
         "link": "https://youtu.be/dlo7qFM2wJI",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -214,7 +264,31 @@
         "cast": "Axar Patel"
       },
       {
-        "id": 9,
+        "id": 10,
+        "link": "https://youtu.be/2DWEZFlxZu8",
+        "platform": "YOUTUBE",
+        "role": "Directed by Manish Solanki",
+        "title": "Vision 11 - Khel Tagda Hai",
+        "slug": "vision11-kkhel-tagda-hai",
+        "thumbnail": "Thumbnail/kabadi-1.png",
+        "text": "Ad Film for Vision-11",
+        "singer": null,
+        "cast": null
+      },
+      {
+        "id": 11,
+        "link": "https://youtu.be/5f5VsRaqlQs",
+        "platform": "YOUTUBE",
+        "role": "Directed by Manish Solanki",
+        "title": "Vision 11 - PKL Ka Ultimate Thrill",
+        "slug": "vision11-pkl-ka-ultimate",
+        "thumbnail": "Thumbnail/kabadi-2.png",
+        "text": "Ad Film for Vision-11",
+        "singer": null,
+        "cast": null
+      },
+      {
+        "id": 12,
         "link": "https://youtu.be/fkVHuOcuz-g",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -226,7 +300,7 @@
         "cast": "Axar Patel"
       },
       {
-        "id": 10,
+        "id": 13,
         "link": "https://youtu.be/edMKY4KkzlE",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -238,7 +312,7 @@
         "cast": "Manish Pandey"
       },
       {
-        "id": 11,
+        "id": 14,
         "link": "https://youtu.be/9bs-qe258r4",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -250,7 +324,7 @@
         "cast": "Manish Pandey"
       },
       {
-        "id": 12,
+        "id": 15,
         "link": "https://youtu.be/izxOd1I1C6c",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -262,7 +336,7 @@
         "cast": "Manish Pandey"
       },
       {
-        "id": 13,
+        "id": 16,
         "link": "https://youtu.be/A4CL1M7i9Y0",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -274,7 +348,7 @@
         "cast": "Rahul Choudhary"
       },
       {
-        "id": 14,
+        "id": 17,
         "link": "https://youtu.be/ctY38wGdIDw",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -286,7 +360,7 @@
         "cast": "Rahul Choudhary"
       },
       {
-        "id": 15,
+        "id": 18,
         "link": "https://www.youtube.com/watch?v=kPwW7zpZw-8",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -298,7 +372,7 @@
         "cast": "Umraan Malik"
       },
       {
-        "id": 16,
+        "id": 19,
         "link": "https://youtu.be/PTdkJfKCb7w",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -317,42 +391,32 @@
     "works": [
       {
         "id": 1,
-        "link": "https://youtu.be/S1T1jGLSgZ4",
+        "link": "https://youtu.be/1gHTcfETAok",
         "platform": "YOUTUBE",
-        "role": "Assistant Directed by Manish Solanki",
-        "title": "Tere Naam ",
-        "slug": "tere-naam-music-video",
-        "thumbnail": "Thumbnail/693.png",
-        "text": "Directed by Navjit Buttar",
-        "singer": "Darshan Rawal & Tulsi Kumar",
-        "cast": "Darshan Rawal & Tulsi Kumar"
+        "title": "Ghoomar - Music Film",
+        "role": "Directed by Manish Solanki",
+        "slug": "ghoomar-music-video",
+        "thumbnail": "Thumbnail/ghoomar.png",
+        "text": null,
+        "emphasis" : "Uploaded by ZEE MUSIC",
+        "singer": "Shahid Khan",
+        "cast": "Shahid Khan - Beats Of Rajasthan"
       },
       {
         "id": 2,
-        "link": "https://youtu.be/LMGFhElKlIY",
+        "link": "https://youtu.be/ZA52iC1Mxvk",
         "platform": "YOUTUBE",
-        "role": "Assistant Directed by Manish Solanki",
-        "title": "Meri Tarah ",
-        "slug": "meri-tarah-music-video",
-        "thumbnail": "Thumbnail/697.png",
-        "text": "Directed by Navjit Buttar",
-        "singer": "Jubin Nautiyal, Payal Dev",
-        "cast": "Himansh Kohli, Heli Daruwala & Gautam Gulati"
+        "title": "Tu Mile Dil Khile ",
+        "role": "Directed by Manish Solanki",
+        "slug": "tu-mile-dil-khile",
+        "thumbnail": "Thumbnail/645.png",
+        "text": null,
+        "emphasis" : "Uploaded by SAREGAMA",
+        "singer": "Aditya Raj",
+        "cast": "Aditya Raj"
       },
       {
         "id": 3,
-        "link": "https://youtu.be/eY3m3ji1q84",
-        "platform": "YOUTUBE",
-        "role": "Assistant Directed by Manish Solanki",
-        "title": "Tu Bhi Sataya Jayega ",
-        "slug": "tu-bhi-sataya-jayega",
-        "thumbnail": "Thumbnail/699.png",
-        "text": "Directed by Navjit Buttar",
-        "singer": "Vishal Mishra",
-        "cast": "Aly Goni & Jasmin Bhasin"
-      },
-      {
-        "id": 4,
         "link": "https://youtu.be/nUDvpMOuJPw",
         "platform": "YOUTUBE",
         "role": "Co-Directed by Manish Solanki",
@@ -364,7 +428,43 @@
         "cast": "Mame Khan"
       },
       {
+        "id": 4,
+        "link": "https://youtu.be/S1T1jGLSgZ4",
+        "platform": "YOUTUBE",
+        "role": "Assistant Directed by Manish Solanki",
+        "title": "Tere Naam ",
+        "slug": "tere-naam-music-video",
+        "thumbnail": "Thumbnail/693.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Darshan Rawal & Tulsi Kumar",
+        "cast": "Darshan Rawal & Tulsi Kumar"
+      },
+      {
         "id": 5,
+        "link": "https://youtu.be/LMGFhElKlIY",
+        "platform": "YOUTUBE",
+        "role": "Assistant Directed by Manish Solanki",
+        "title": "Meri Tarah ",
+        "slug": "meri-tarah-music-video",
+        "thumbnail": "Thumbnail/697.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Jubin Nautiyal, Payal Dev",
+        "cast": "Himansh Kohli, Heli Daruwala & Gautam Gulati"
+      },
+      {
+        "id": 6,
+        "link": "https://youtu.be/eY3m3ji1q84",
+        "platform": "YOUTUBE",
+        "role": "Assistant Directed by Manish Solanki",
+        "title": "Tu Bhi Sataya Jayega ",
+        "slug": "tu-bhi-sataya-jayega",
+        "thumbnail": "Thumbnail/699.png",
+        "text": "Directed by Navjit Buttar",
+        "singer": "Vishal Mishra",
+        "cast": "Aly Goni & Jasmin Bhasin"
+      },
+      {
+        "id": 7,
         "link": "https://youtu.be/wuu6IckFNGI",
         "platform": "YOUTUBE",
         "role": "Associate Directed by Manish Solanki",
@@ -376,7 +476,7 @@
         "cast": "Ishita Meena & Gaurav Wadhwa"
       },
       {
-        "id": 6,
+        "id": 8,
         "link": "https://youtu.be/rbraqW4ZBIY",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -388,7 +488,7 @@
         "cast": "Ruhaan & Daksh"
       },
       {
-        "id": 7,
+        "id": 9,
         "link": "https://youtu.be/6iYb4HtRmwg",
         "platform": "YOUTUBE",
         "role": "Co-Directed by Manish Solanki",
@@ -400,19 +500,7 @@
         "cast": "Mame Khan"
       },
       {
-        "id": 8,
-        "link": "https://youtu.be/ZA52iC1Mxvk",
-        "platform": "YOUTUBE",
-        "title": "Tu Mile Dil Khile ",
-        "role": "Directed by Manish Solanki",
-        "slug": "tu-mile-dil-khile",
-        "thumbnail": "Thumbnail/645.png",
-        "text": null,
-        "singer": "Aditya Raj",
-        "cast": "Aditya Raj"
-      },
-      {
-        "id": 9,
+        "id": 10,
         "link": "https://youtu.be/IZbBiAiO7JQ",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -424,7 +512,7 @@
         "cast": "Keerti Singh & Ankit Sharma"
       },
       {
-        "id": 10,
+        "id": 11,
         "link": "https://youtu.be/nPXT73objSY",
         "platform": "YOUTUBE",
         "role": "Directed by Manish Solanki",
@@ -436,7 +524,7 @@
         "cast": "Shivang Shukla, Soumaya Parashar & Rajesh Thada"
       },
       {
-        "id": 11,
+        "id": 12,
         "link": "https://youtu.be/MqL-EZkVkuA",
         "platform": "YOUTUBE",
         "role": "Co-Directed by Manish Solanki",
@@ -448,7 +536,7 @@
         "cast": "Sonesh Arya & Ankita Sharma"
       },
       {
-        "id": 12,
+        "id": 13,
         "link": "https://youtu.be/FTeI75h-NHQ",
         "platform": "YOUTUBE",
         "role": "Associate Directed by Manish Solanki",
@@ -460,7 +548,7 @@
         "cast": null
       },
       {
-        "id": 13,
+        "id": 14,
         "link": "https://youtu.be/2RyDqXwHzhY",
         "platform": "YOUTUBE",
         "role": "Associate Directed by Manish Solanki",
@@ -487,7 +575,7 @@
         "cast": "Garima Chouhan & Sonesh Arya"
       },
       {
-        "id": 2,
+        "id": 99,
         "link": "https://www.hotstar.com/1260105268",
         "platform": "HOTSTAR",
         "title": "Shikayat",

@@ -23,7 +23,7 @@ export default function StructureNew(props) {
                     className="videoThumbnailLink"
                   >
                     <img src={`${work.thumbnail}`} alt={`${work.slug}`} />
-                    {work.id == 2 ? (
+                    {work.id == 99 ? (
                       <ThumbnailTextDiv>
                         <p style={{ color: "black" }}>{work.title}</p>
                         <p style={{ color: "black" }}>{work.cast}</p>

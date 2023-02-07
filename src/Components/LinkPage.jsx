@@ -13,7 +13,7 @@ export default function LinkPage({}) {
   );
   if (bigDetails) {
     const details = bigDetails.works.find((data) => data.slug === linkSlug);
-    const { title, link, role, text, singer, cast } = details;
+    const { title, link, role, text, singer, cast, emphasis } = details;
     return (
       <>
         <Grid container mt={2}>
@@ -35,25 +35,32 @@ export default function LinkPage({}) {
           </Grid>
           <Grid item lg={6} md={6} sm={6} xs={12}>
             <VideoDetails>
-              <p>{title}</p>
+              <p className="titlePara">{title}</p>
               {text ? (
                 <>
-                  <p>{text}</p>
+                  <p className="textPara">{text}</p>
                 </>
               ) : (
                 <></>
               )}
-              <p>{role}</p>
+              <p className="rolePara">{role}</p>
+              {emphasis ? (
+                <>
+                  <p className="emphasisPara">{emphasis}</p>
+                </>
+              ) : (
+                <></>
+              )}
               {singer ? (
                 <>
-                  <p>Artist: {singer}</p>
+                  <p className="singerPara">Artist: {singer}</p>
                 </>
               ) : (
                 <></>
               )}
               {cast ? (
                 <>
-                  <p>Cast: {cast}</p>
+                  <p className="castPara">Cast: {cast}</p>
                 </>
               ) : (
                 <></>
@@ -84,7 +91,7 @@ padding : 5%;
       font-size: 1.25rem;
     }
   }
-  p:first-of-type {
+  .titlePara {
     font-size: 3rem;
     padding: 0 1%;
     font-weight: 900;
@@ -93,7 +100,7 @@ padding : 5%;
       font-size: 2.25rem;
     }
   }
-  p:nth-of-type(3) {
+  .rolePara {
     font-size: 2.3rem;
     font-weight : bolder;
     padding: 0 1%;
